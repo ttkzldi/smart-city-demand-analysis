@@ -24,3 +24,8 @@ Analyze traffic, electricity, and water demand using Big Data concepts.
 ##  How to Run
 1. Open Jupyter Notebook
 2. Run all cells
+
+## Visualization
+trafficplot.png
+
+traffictrend.png
